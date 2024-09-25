@@ -1,6 +1,5 @@
 # Mobile Matrices
 
-## Introduction
 Mobile Matrices automates builds of various Mobile Linux Operating Systems and assists in porting UIs to new operating systems. Our mission is to streamline the development and deployment of mobile Linux environments, making it easier for developers and users to access cutting-edge mobile technology.
 
 ## Getting Started
